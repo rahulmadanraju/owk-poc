@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment / virtual environments
+env/
+venv/
+.venv/
+*.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDE / editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Test outputs / coverage
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# Dockerfile specific
+Dockerfile
+.dockerignore
